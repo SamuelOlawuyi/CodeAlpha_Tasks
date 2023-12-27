@@ -1,4 +1,4 @@
-package dev.samuelolawuyi.AtmInterface.Entities;
+   package dev.samuelolawuyi.AtmInterface.Entities;
 
 import lombok.Data;
 
