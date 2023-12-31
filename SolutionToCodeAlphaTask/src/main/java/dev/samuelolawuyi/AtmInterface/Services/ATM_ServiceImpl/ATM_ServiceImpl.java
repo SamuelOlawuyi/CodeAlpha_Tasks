@@ -1,4 +1,4 @@
- package dev.samuelolawuyi.AtmInterface.Services.ATM_ServiceImpl;
+package dev.samuelolawuyi.AtmInterface.Services.ATM_ServiceImpl;
 
 
 import dev.samuelolawuyi.AtmInterface.Entities.ATM;
